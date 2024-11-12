@@ -1,6 +1,5 @@
 # 🌟 Intern-2025 Opportunities
-
-###💻 **SDE/SRE/SYSTEMS Internships (SDE)**
+ **SDE/SRE/SYSTEMS Internships (SDE)**
 
 ---
 
